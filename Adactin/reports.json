@@ -1,0 +1,528 @@
+[
+  {
+    "line": 3,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 1903000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.beforemethod()"
+            }
+          }
+        ],
+        "line": 13,
+        "name": "This scenario for login three credentials",
+        "description": "",
+        "id": "this-feature-is-login-many-id-s-in-adactin-loginpage;this-scenario-for-login-three-credentials;;2",
+        "after": [
+          {
+            "result": {
+              "duration": 219700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.aftermethod()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 16410240400,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "To load the Adactin Login page",
+            "match": {
+              "location": "AdactinLoginStepDef.to_load_the_Adactin_Login_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 817018300,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "providing three credentials \"Muhamed\", \"65444\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Muhamed\"",
+                  "offset": 28
+                },
+                {
+                  "val": "\"65444\"",
+                  "offset": 39
+                }
+              ],
+              "location": "AdactinLoginStepDef.providing_three_credentials(String,String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 841615600,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "To close the Adactin Login page",
+            "match": {
+              "location": "AdactinLoginStepDef.to_close_the_Adactin_Login_page()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "@tag2"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 214700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.beforemethod()"
+            }
+          }
+        ],
+        "line": 14,
+        "name": "This scenario for login three credentials",
+        "description": "",
+        "id": "this-feature-is-login-many-id-s-in-adactin-loginpage;this-scenario-for-login-three-credentials;;3",
+        "after": [
+          {
+            "result": {
+              "duration": 147400,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.aftermethod()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 7459583500,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "To load the Adactin Login page",
+            "match": {
+              "location": "AdactinLoginStepDef.to_load_the_Adactin_Login_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 814978600,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "providing three credentials \"Javeed\", \"5465662\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Javeed\"",
+                  "offset": 28
+                },
+                {
+                  "val": "\"5465662\"",
+                  "offset": 38
+                }
+              ],
+              "location": "AdactinLoginStepDef.providing_three_credentials(String,String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 2302101900,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "To close the Adactin Login page",
+            "match": {
+              "location": "AdactinLoginStepDef.to_close_the_Adactin_Login_page()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "@tag2"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 216700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.beforemethod()"
+            }
+          }
+        ],
+        "line": 15,
+        "name": "This scenario for login three credentials",
+        "description": "",
+        "id": "this-feature-is-login-many-id-s-in-adactin-loginpage;this-scenario-for-login-three-credentials;;4",
+        "after": [
+          {
+            "result": {
+              "duration": 168800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.aftermethod()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 5763864900,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "To load the Adactin Login page",
+            "match": {
+              "location": "AdactinLoginStepDef.to_load_the_Adactin_Login_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 814343000,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "providing three credentials \"Abu\", \"786458\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Abu\"",
+                  "offset": 28
+                },
+                {
+                  "val": "\"786458\"",
+                  "offset": 35
+                }
+              ],
+              "location": "AdactinLoginStepDef.providing_three_credentials(String,String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 509041300,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "To close the Adactin Login page",
+            "match": {
+              "location": "AdactinLoginStepDef.to_close_the_Adactin_Login_page()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "@tag2"
+          }
+        ]
+      }
+    ],
+    "name": "This feature is login Many id\u0027s in Adactin loginpage",
+    "description": "",
+    "id": "this-feature-is-login-many-id-s-in-adactin-loginpage",
+    "keyword": "Feature",
+    "uri": "C:/Users/Muhamed Javeed/Desktop/ProjectMuhamedJaveed/src/test/resources/Features/AdactinLogin.feature",
+    "tags": [
+      {
+        "name": "@tag",
+        "type": "Tag",
+        "location": {
+          "line": 2,
+          "column": 1
+        }
+      }
+    ]
+  },
+  {
+    "line": 3,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 819800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.beforemethod()"
+            }
+          }
+        ],
+        "line": 6,
+        "name": "This scenario is to Room booking for the one-Adult",
+        "description": "",
+        "id": "this-feature-is-to-booking-for-room-in-adactin-website;this-scenario-is-to-room-booking-for-the-one-adult",
+        "after": [
+          {
+            "result": {
+              "duration": 127300,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.aftermethod()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 6709667900,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "To load the Adactin Browser and Login with credential",
+            "match": {
+              "location": "RoomBookingStepDef.to_load_the_Adactin_Browser_and_Login_with_credential()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 5894835000,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "providing the customer details for room booking",
+            "match": {
+              "location": "RoomBookingStepDef.providing_the_customer_details_for_room_booking()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 360275300,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "To close the adactin browser",
+            "match": {
+              "location": "RoomBookingStepDef.to_close_the_adactin_browser()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "@tag1"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 353700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.beforemethod()"
+            }
+          }
+        ],
+        "line": 12,
+        "name": "This scenario is to Room booking for the two-Adult",
+        "description": "",
+        "id": "this-feature-is-to-booking-for-room-in-adactin-website;this-scenario-is-to-room-booking-for-the-two-adult",
+        "after": [
+          {
+            "result": {
+              "duration": 100700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.aftermethod()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 7313465800,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "To load the Adactin Browser and Login with second credential",
+            "match": {
+              "location": "RoomBookingStepDef.to_load_the_Adactin_Browser_and_Login_with_second_credential()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 6177981900,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "providing the second customer detail for room booking",
+            "match": {
+              "location": "RoomBookingStepDef.providing_the_second_customer_detail_for_room_booking()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 284996300,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "To close the adactin browser",
+            "match": {
+              "location": "RoomBookingStepDef.to_close_the_adactin_browser()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "@tag2"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 217200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.beforemethod()"
+            }
+          }
+        ],
+        "line": 18,
+        "name": "This scenario is to Room booking for the third-Adult",
+        "description": "",
+        "id": "this-feature-is-to-booking-for-room-in-adactin-website;this-scenario-is-to-room-booking-for-the-third-adult",
+        "after": [
+          {
+            "result": {
+              "duration": 169800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.aftermethod()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 5869223300,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "To load the Adactin Browser and Login with third credential",
+            "match": {
+              "location": "RoomBookingStepDef.to_load_the_Adactin_Browser_and_Login_with_third_credential()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 9482615300,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "providing the third customer detail for room booking",
+            "match": {
+              "location": "RoomBookingStepDef.providing_the_third_customer_detail_for_room_booking()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 487949000,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "To close the adactin browser",
+            "match": {
+              "location": "RoomBookingStepDef.to_close_the_adactin_browser()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "@tag3"
+          }
+        ]
+      }
+    ],
+    "name": "This feature is to Booking for room in Adactin website",
+    "description": "",
+    "id": "this-feature-is-to-booking-for-room-in-adactin-website",
+    "keyword": "Feature",
+    "uri": "C:/Users/Muhamed Javeed/Desktop/ProjectMuhamedJaveed/src/test/resources/Features/AdactinRoomBooking.feature",
+    "tags": [
+      {
+        "name": "@tag",
+        "type": "Tag",
+        "location": {
+          "line": 2,
+          "column": 1
+        }
+      }
+    ]
+  }
+]
